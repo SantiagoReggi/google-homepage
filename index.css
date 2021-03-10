@@ -1,0 +1,61 @@
+.menu{
+    text-decoration: none;
+}
+nav{
+    text-align: right;
+}
+.menu{
+    padding: 10px;
+}
+#navclass{
+    padding: 10px;
+}
+#imag{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  padding: 30px;
+}
+#search-div{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+#search-text{
+    margin: auto;
+    width: 55%;
+    padding: 5px;
+}
+#search-div2{
+    text-align: center;
+}
+#extras{
+    margin: auto;
+    width: 10%;
+    padding: 10px;
+}
+#feliz{
+    margin: auto;
+    width: 10%;
+    padding: 10px;
+}
+#profile{
+    background-color: blue;
+    color: white;
+    border-radius: 20%;
+    padding: 5px;
+}
+#relleno{
+    padding: 75px;
+}
+#search-text{
+    border-radius: 20px;
+    box-shadow: 0%;
+}
+#boton1{
+    display: inline-block;
+}
+#boton2{
+    display: inline-block;
+}
